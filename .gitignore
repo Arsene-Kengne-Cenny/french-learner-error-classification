@@ -1,6 +1,12 @@
-data/
-models/
-outputs/
+data/*
+!data/.gitkeep
+
+models/*
+!models/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
+
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
