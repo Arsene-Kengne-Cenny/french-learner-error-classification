@@ -1,0 +1,10 @@
+data/
+models/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.safetensors
+.DS_Store
