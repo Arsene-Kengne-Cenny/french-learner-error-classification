@@ -233,10 +233,7 @@ The final taxonomy therefore contains **7 classes**.
 
 # Final Results
 
-Evaluation on thegit add .
-git commit -m "add confusion matrix image"
-git push
- held-out **gold_test** set:
+Evaluation on the held-out **gold_test** set:
 
 ```
 Accuracy ≈ 0.58
