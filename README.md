@@ -233,7 +233,10 @@ The final taxonomy therefore contains **7 classes**.
 
 # Final Results
 
-Evaluation on the held-out **gold_test** set:
+Evaluation on thegit add .
+git commit -m "add confusion matrix image"
+git push
+ held-out **gold_test** set:
 
 ```
 Accuracy ≈ 0.58
@@ -272,8 +275,10 @@ french-learner-error-classification
 │   └── .gitkeep
 │
 ├── outputs
+│   ├── cm_merged7_test.png
 │   └── .gitkeep
 │
+├── .gitignore
 └── README.md
 ```
 
