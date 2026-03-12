@@ -247,7 +247,7 @@ These results suggest that a **slightly coarser taxonomy aligns better with what
 
 Below is the row-normalized confusion matrix of the final 7-class model on the held-out test set.
 
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](outputs/cm_merged7_test.png)
 
 ---
 # Repository Structure
