@@ -243,14 +243,11 @@ Macro-F1 ≈ 0.616
 These results suggest that a **slightly coarser taxonomy aligns better with what the model can reliably learn**, reducing systematic confusion between linguistically related categories.
 
 ---
-# Confusion Matrix
-## Confusion Matrix
-
 ## Confusion Matrix
 
 Below is the row-normalized confusion matrix of the final 7-class model on the held-out test set.
 
-![Confusion Matrix](outputs/cm_merged7_test.png)
+![Confusion Matrix](outputs/confusion_matrix.png)
 
 ---
 # Repository Structure

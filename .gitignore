@@ -6,6 +6,9 @@ models/*
 
 outputs/*
 !outputs/.gitkeep
+!outputs/*.png
+!outputs/*.txt
+!outputs/*.csv
 
 .ipynb_checkpoints/
 __pycache__/
